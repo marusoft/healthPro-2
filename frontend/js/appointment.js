@@ -1,0 +1,1 @@
+console.log("This is appointment.js file");
